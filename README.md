@@ -22,6 +22,7 @@ I'm a passionate student at **ENSIMAG** with a keen interest in **cybersecurity*
 ## 💼 Experience
 - **Projects :** All projects under study.
 - **[Website for my swimming club](https://natation-pierrelatte.fr/) :** I made my swimming club website in PHP, HTML, CSS and JS.
+- **[Hack The Box Academy](https://github.com/nolancarougepro/Hack-The-Box-Academy)** : I am taking courses to achieve certifications.
 
 ## 🌐 Find Me Around the Web
 - **[LinkedIn](https://www.linkedin.com/in/nolan-carouge/) :** Connect with me professionally.
